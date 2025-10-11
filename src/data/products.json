@@ -1,0 +1,301 @@
+[
+    
+  {
+    "id": 1,
+    "title": "Adobe Illustrator 2025",
+    "description": "Software profesional de diseño vectorial",
+    "code": "ADOBE-IL2025",
+    "price": 85,
+    "status": true,
+    "stock": 40,
+    "category": "ADOBE",
+    "thumbnails": ["illustrator2025.jpg"]
+  },
+  {
+    "id": 2,
+    "title": "Adobe Photoshop 2025",
+    "description": "Edición profesional de imágenes",
+    "code": "ADOBE-PS2025",
+    "price": 85,
+    "status": true,
+    "stock": 40,
+    "category": "ADOBE",
+    "thumbnails": ["photoshop2025.jpg"]
+  },
+  {
+    "id": 3,
+    "title": "Adobe Acrobat 2025",
+    "description": "Gestión de documentos PDF",
+    "code": "ADOBE-ACROBAT2025",
+    "price": 85,
+    "status": true,
+    "stock": 40,
+    "category": "ADOBE",
+    "thumbnails": ["acrobat2025.jpg"]
+  },
+  {
+    "id": 4,
+    "title": "Adobe Premiere Pro 2025",
+    "description": "Edición profesional de video",
+    "code": "ADOBE-PR2025",
+    "price": 85,
+    "status": true,
+    "stock": 40,
+    "category": "ADOBE",
+    "thumbnails": ["premiere2025.jpg"]
+  },
+  {
+    "id": 5,
+    "title": "Adobe Audition 2025",
+    "description": "Edición profesional de audio",
+    "code": "ADOBE-AU2025",
+    "price": 85,
+    "status": true,
+    "stock": 40,
+    "category": "ADOBE",
+    "thumbnails": ["audition2025.jpg"]
+  },
+  {
+    "id": 6,
+    "title": "Autodesk AutoCAD 2026",
+    "description": "Diseño CAD 2D y 3D",
+    "code": "AUTODESK-ACAD2026",
+    "price": 85,
+    "status": true,
+    "stock": 50,
+    "category": "AUTODESK",
+    "thumbnails": ["autocad2026.jpg"]
+  },
+  {
+    "id": 7,
+    "title": "Autodesk 3DS Max 2025",
+    "description": "Modelado y animación 3D",
+    "code": "AUTODESK-3DSMAX2025",
+    "price": 120,
+    "status": true,
+    "stock": 50,
+    "category": "AUTODESK",
+    "thumbnails": ["3dsmax2025.jpg"]
+  },
+  {
+    "id": 8,
+    "title": "Autodesk Revit 2025",
+    "description": "Diseño arquitectónico BIM",
+    "code": "AUTODESK-REVIT2025",
+    "price": 100,
+    "status": true,
+    "stock": 50,
+    "category": "AUTODESK",
+    "thumbnails": ["revit2025.jpg"]
+  },
+  {
+    "id": 9,
+    "title": "Autodesk Inventor 2025",
+    "description": "Diseño mecánico 3D",
+    "code": "AUTODESK-INVENTOR2025",
+    "price": 100,
+    "status": true,
+    "stock": 50,
+    "category": "AUTODESK",
+    "thumbnails": ["inventor2025.jpg"]
+  },
+  {
+    "id": 10,
+    "title": "Autodesk Maya 2025",
+    "description": "Animación y efectos visuales",
+    "code": "AUTODESK-MAYA2025",
+    "price": 100,
+    "status": true,
+    "stock": 50,
+    "category": "AUTODESK",
+    "thumbnails": ["maya2025.jpg"]
+  },
+  {
+    "id": 11,
+    "title": "Autodesk Eagle 2025",
+    "description": "Diseño de circuitos electrónicos",
+    "code": "AUTODESK-EAGLE2025",
+    "price": 100,
+    "status": true,
+    "stock": 50,
+    "category": "AUTODESK",
+    "thumbnails": ["eagle2025.jpg"]
+  },
+  {
+    "id": 12,
+    "title": "Autodesk AutoCAD Electrical 2025",
+    "description": "Diseño eléctrico especializado",
+    "code": "AUTODESK-ACAD-ELEC2025",
+    "price": 100,
+    "status": true,
+    "stock": 50,
+    "category": "AUTODESK",
+    "thumbnails": ["acad-electrical2025.jpg"]
+  },
+  {
+    "id": 13,
+    "title": "Autodesk Robot Structural Analysis 2025",
+    "description": "Análisis estructural avanzado",
+    "code": "AUTODESK-ROBOTSTR2025",
+    "price": 100,
+    "status": true,
+    "stock": 50,
+    "category": "AUTODESK",
+    "thumbnails": ["robotstr2025.jpg"]
+  },
+  {
+    "id": 14,
+    "title": "Autodesk 2025",
+    "description": "Suite de diseño Autodesk",
+    "code": "AUTODESK-SUITE2025",
+    "price": 100,
+    "status": true,
+    "stock": 50,
+    "category": "AUTODESK",
+    "thumbnails": ["autodesk2025.jpg"]
+  },
+  {
+    "id": 15,
+    "title": "SketchUp Pro 2025",
+    "description": "Modelado arquitectónico 3D",
+    "code": "SKETCHUP-PRO2025",
+    "price": 85,
+    "status": true,
+    "stock": 40,
+    "category": "DISEÑO",
+    "thumbnails": ["sketchup2025.jpg"]
+  },
+  {
+    "id": 16,
+    "title": "Archicad",
+    "description": "Diseño arquitectónico BIM",
+    "code": "ARCHICAD2025",
+    "price": 85,
+    "status": true,
+    "stock": 40,
+    "category": "DISEÑO",
+    "thumbnails": ["archicad2025.jpg"]
+  },
+  {
+    "id": 17,
+    "title": "CorelDRAW Graphics Suite 2025",
+    "description": "Diseño gráfico profesional",
+    "code": "CORELDRAW2025",
+    "price": 85,
+    "status": true,
+    "stock": 40,
+    "category": "DISEÑO",
+    "thumbnails": ["coreldraw2025.jpg"]
+  },
+  {
+    "id": 18,
+    "title": "CADE SIMU",
+    "description": "Simulación de circuitos eléctricos",
+    "code": "CADE-SIMU2025",
+    "price": 70,
+    "status": true,
+    "stock": 40,
+    "category": "INGENIERIA",
+    "thumbnails": ["cadesimu2025.jpg"]
+  },
+  {
+    "id": 19,
+    "title": "Festo FluidSIM",
+    "description": "Simulación neumática e hidráulica",
+    "code": "FESTO-FLUIDSIM2025",
+    "price": 70,
+    "status": true,
+    "stock": 40,
+    "category": "INGENIERIA",
+    "thumbnails": ["fluidsim2025.jpg"]
+  },
+  {
+    "id": 20,
+    "title": "Tekla Structures",
+    "description": "Modelado estructural BIM",
+    "code": "TEKLA2025",
+    "price": 100,
+    "status": true,
+    "stock": 40,
+    "category": "INGENIERIA",
+    "thumbnails": ["tekla2025.jpg"]
+  },
+  {
+    "id": 21,
+    "title": "Microsoft Office 2019 Pro Plus",
+    "description": "Suite de productividad clásica",
+    "code": "MS-OFFICE2019",
+    "price": 85,
+    "status": true,
+    "stock": 40,
+    "category": "MICROSOFT",
+    "thumbnails": ["office2019.jpg"]
+  },
+  {
+    "id": 22,
+    "title": "Microsoft Office 2021 Pro Plus",
+    "description": "Suite de productividad moderna",
+    "code": "MS-OFFICE2021",
+    "price": 85,
+    "status": true,
+    "stock": 40,
+    "category": "MICROSOFT",
+    "thumbnails": ["office2021.jpg"]
+  },
+  {
+    "id": 23,
+    "title": "Microsoft Office 2024 Pro Plus",
+    "description": "Suite de productividad actualizada",
+    "code": "MS-OFFICE2024",
+    "price": 85,
+    "status": true,
+    "stock": 40,
+    "category": "MICROSOFT",
+    "thumbnails": ["office2024.jpg"]
+  },
+  {
+    "id": 24,
+    "title": "Microsoft Office 365 Retail",
+    "description": "Suscripción a Office 365",
+    "code": "MS-OFFICE365",
+    "price": 100,
+    "status": true,
+    "stock": 40,
+    "category": "MICROSOFT",
+    "thumbnails": ["office365.jpg"]
+  },
+  {
+    "id": 25,
+    "title": "V-Ray para SketchUp 2025",
+    "description": "Renderizado fotorrealista para SketchUp",
+    "code": "PLUGIN-VRAY2025",
+    "price": 50,
+    "status": true,
+    "stock": 40,
+    "category": "PLUGINS/ADDONS",
+    "thumbnails": ["vray2025.jpg"]
+  },
+  {
+    "id": 26,
+    "title": "Enscape 3D 4.5 para SketchUp",
+    "description": "Visualización arquitectónica en tiempo real",
+    "code": "PLUGIN-ENSCAPE4.5",
+    "price": 50,
+    "status": true,
+    "stock": 40,
+    "category": "PLUGINS/ADDONS",
+    "thumbnails": ["enscape4.5.jpg"]
+  },
+  {
+    "id": 27,
+    "title": "Avast Premium Security 2025",
+    "description": "Protección avanzada contra amenazas",
+    "code": "AVAST-2025",
+    "price": 50,
+    "status": true,
+    "stock": 40,
+    "category": "ANTIVIRUS",
+    "thumbnails": ["avast2025.jpg"]
+  }
+]
+

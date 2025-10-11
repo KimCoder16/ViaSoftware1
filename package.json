@@ -1,0 +1,20 @@
+{
+  "name": "viasoftware1",
+  "version": "1.0.0",
+  "description": "Servidor Express para venta de programas e instalaciones de software.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "Kim",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
