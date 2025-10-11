@@ -1,5 +1,4 @@
 [
-    
   {
     "id": 1,
     "title": "Adobe Illustrator 2025",
@@ -9,7 +8,9 @@
     "status": true,
     "stock": 40,
     "category": "ADOBE",
-    "thumbnails": ["illustrator2025.jpg"]
+    "thumbnails": [
+      "illustrator2025.jpg"
+    ]
   },
   {
     "id": 2,
@@ -20,7 +21,9 @@
     "status": true,
     "stock": 40,
     "category": "ADOBE",
-    "thumbnails": ["photoshop2025.jpg"]
+    "thumbnails": [
+      "photoshop2025.jpg"
+    ]
   },
   {
     "id": 3,
@@ -31,7 +34,9 @@
     "status": true,
     "stock": 40,
     "category": "ADOBE",
-    "thumbnails": ["acrobat2025.jpg"]
+    "thumbnails": [
+      "acrobat2025.jpg"
+    ]
   },
   {
     "id": 4,
@@ -42,7 +47,9 @@
     "status": true,
     "stock": 40,
     "category": "ADOBE",
-    "thumbnails": ["premiere2025.jpg"]
+    "thumbnails": [
+      "premiere2025.jpg"
+    ]
   },
   {
     "id": 5,
@@ -53,7 +60,9 @@
     "status": true,
     "stock": 40,
     "category": "ADOBE",
-    "thumbnails": ["audition2025.jpg"]
+    "thumbnails": [
+      "audition2025.jpg"
+    ]
   },
   {
     "id": 6,
@@ -64,7 +73,9 @@
     "status": true,
     "stock": 50,
     "category": "AUTODESK",
-    "thumbnails": ["autocad2026.jpg"]
+    "thumbnails": [
+      "autocad2026.jpg"
+    ]
   },
   {
     "id": 7,
@@ -75,7 +86,9 @@
     "status": true,
     "stock": 50,
     "category": "AUTODESK",
-    "thumbnails": ["3dsmax2025.jpg"]
+    "thumbnails": [
+      "3dsmax2025.jpg"
+    ]
   },
   {
     "id": 8,
@@ -86,7 +99,9 @@
     "status": true,
     "stock": 50,
     "category": "AUTODESK",
-    "thumbnails": ["revit2025.jpg"]
+    "thumbnails": [
+      "revit2025.jpg"
+    ]
   },
   {
     "id": 9,
@@ -97,7 +112,9 @@
     "status": true,
     "stock": 50,
     "category": "AUTODESK",
-    "thumbnails": ["inventor2025.jpg"]
+    "thumbnails": [
+      "inventor2025.jpg"
+    ]
   },
   {
     "id": 10,
@@ -108,7 +125,9 @@
     "status": true,
     "stock": 50,
     "category": "AUTODESK",
-    "thumbnails": ["maya2025.jpg"]
+    "thumbnails": [
+      "maya2025.jpg"
+    ]
   },
   {
     "id": 11,
@@ -119,7 +138,9 @@
     "status": true,
     "stock": 50,
     "category": "AUTODESK",
-    "thumbnails": ["eagle2025.jpg"]
+    "thumbnails": [
+      "eagle2025.jpg"
+    ]
   },
   {
     "id": 12,
@@ -130,7 +151,9 @@
     "status": true,
     "stock": 50,
     "category": "AUTODESK",
-    "thumbnails": ["acad-electrical2025.jpg"]
+    "thumbnails": [
+      "acad-electrical2025.jpg"
+    ]
   },
   {
     "id": 13,
@@ -141,7 +164,9 @@
     "status": true,
     "stock": 50,
     "category": "AUTODESK",
-    "thumbnails": ["robotstr2025.jpg"]
+    "thumbnails": [
+      "robotstr2025.jpg"
+    ]
   },
   {
     "id": 14,
@@ -152,7 +177,9 @@
     "status": true,
     "stock": 50,
     "category": "AUTODESK",
-    "thumbnails": ["autodesk2025.jpg"]
+    "thumbnails": [
+      "autodesk2025.jpg"
+    ]
   },
   {
     "id": 15,
@@ -163,7 +190,9 @@
     "status": true,
     "stock": 40,
     "category": "DISEÑO",
-    "thumbnails": ["sketchup2025.jpg"]
+    "thumbnails": [
+      "sketchup2025.jpg"
+    ]
   },
   {
     "id": 16,
@@ -174,7 +203,9 @@
     "status": true,
     "stock": 40,
     "category": "DISEÑO",
-    "thumbnails": ["archicad2025.jpg"]
+    "thumbnails": [
+      "archicad2025.jpg"
+    ]
   },
   {
     "id": 17,
@@ -185,7 +216,9 @@
     "status": true,
     "stock": 40,
     "category": "DISEÑO",
-    "thumbnails": ["coreldraw2025.jpg"]
+    "thumbnails": [
+      "coreldraw2025.jpg"
+    ]
   },
   {
     "id": 18,
@@ -196,7 +229,9 @@
     "status": true,
     "stock": 40,
     "category": "INGENIERIA",
-    "thumbnails": ["cadesimu2025.jpg"]
+    "thumbnails": [
+      "cadesimu2025.jpg"
+    ]
   },
   {
     "id": 19,
@@ -207,7 +242,9 @@
     "status": true,
     "stock": 40,
     "category": "INGENIERIA",
-    "thumbnails": ["fluidsim2025.jpg"]
+    "thumbnails": [
+      "fluidsim2025.jpg"
+    ]
   },
   {
     "id": 20,
@@ -218,7 +255,9 @@
     "status": true,
     "stock": 40,
     "category": "INGENIERIA",
-    "thumbnails": ["tekla2025.jpg"]
+    "thumbnails": [
+      "tekla2025.jpg"
+    ]
   },
   {
     "id": 21,
@@ -229,7 +268,9 @@
     "status": true,
     "stock": 40,
     "category": "MICROSOFT",
-    "thumbnails": ["office2019.jpg"]
+    "thumbnails": [
+      "office2019.jpg"
+    ]
   },
   {
     "id": 22,
@@ -240,7 +281,9 @@
     "status": true,
     "stock": 40,
     "category": "MICROSOFT",
-    "thumbnails": ["office2021.jpg"]
+    "thumbnails": [
+      "office2021.jpg"
+    ]
   },
   {
     "id": 23,
@@ -251,7 +294,9 @@
     "status": true,
     "stock": 40,
     "category": "MICROSOFT",
-    "thumbnails": ["office2024.jpg"]
+    "thumbnails": [
+      "office2024.jpg"
+    ]
   },
   {
     "id": 24,
@@ -262,7 +307,9 @@
     "status": true,
     "stock": 40,
     "category": "MICROSOFT",
-    "thumbnails": ["office365.jpg"]
+    "thumbnails": [
+      "office365.jpg"
+    ]
   },
   {
     "id": 25,
@@ -273,7 +320,9 @@
     "status": true,
     "stock": 40,
     "category": "PLUGINS/ADDONS",
-    "thumbnails": ["vray2025.jpg"]
+    "thumbnails": [
+      "vray2025.jpg"
+    ]
   },
   {
     "id": 26,
@@ -284,7 +333,9 @@
     "status": true,
     "stock": 40,
     "category": "PLUGINS/ADDONS",
-    "thumbnails": ["enscape4.5.jpg"]
+    "thumbnails": [
+      "enscape4.5.jpg"
+    ]
   },
   {
     "id": 27,
@@ -295,7 +346,21 @@
     "status": true,
     "stock": 40,
     "category": "ANTIVIRUS",
-    "thumbnails": ["avast2025.jpg"]
+    "thumbnails": [
+      "avast2025.jpg"
+    ]
+  },
+  {
+    "id": 28,
+    "status": true,
+    "title": "Adobe Premiere Pro 2025",
+    "description": "Edición profesional de video",
+    "code": "ADOBE-PR2025",
+    "price": 85,
+    "stock": 40,
+    "category": "ADOBE",
+    "thumbnails": [
+      "premiere2025.jpg"
+    ]
   }
 ]
-
