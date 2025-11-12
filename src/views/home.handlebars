@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="/styles.css">
+
+<h1>🧩 Catálogo de productos</h1>
+
+<ul>
+  {{#each products}}
+    <li>
+      <strong>{{this.title}}</strong> - {{this.category}}  
+      (S/{{this.price}})
+    </li>
+  {{/each}}
+</ul>
+
+<p><a href="/realtimeproducts">Ir a vista en tiempo real ⚡</a></p>
