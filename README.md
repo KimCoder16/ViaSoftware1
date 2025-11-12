@@ -41,13 +41,19 @@ ViaSoftware1/
 │  ├─ managers/
 │  │   ├─ ProductManager.js
 │  │   └─ CartManager.js
-│  └─ data/
-│      ├─ products.json
-│      └─ carts.json
+│  ├─ data/
+│  │   ├─ products.json
+│  │   └─ carts.json
+│  ├─ views/
+│  │   ├─ home.handlebars
+│  │   └─ realTimeProducts.handlebars
+│  ├─ public/
+│      └─ styles.css
 │
 ├─ package.json
 ├─ package-lock.json
 └─ README.md
+
 
 ## Endpoints disponibles
 
