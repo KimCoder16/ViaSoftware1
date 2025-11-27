@@ -1,0 +1,132 @@
+/* 🎨 Estilos generales para ViaSoftware1 */
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: radial-gradient(circle at top, #0a0f1f, #000);
+  color: #e0e6ff;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* 🧭 Encabezado */
+header {
+  background: rgba(0, 20, 60, 0.7);
+  width: 100%;
+  text-align: center;
+  padding: 1.5rem 0;
+  box-shadow: 0 0 20px rgba(0, 170, 255, 0.2);
+  border-bottom: 1px solid rgba(0, 170, 255, 0.3);
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2rem;
+  color: #00baff;
+  text-shadow: 0 0 10px #00baff;
+  letter-spacing: 1px;
+}
+
+/* 🧱 Contenedor principal */
+main {
+  width: 90%;
+  max-width: 900px;
+  margin-top: 2rem;
+  background: rgba(10, 20, 40, 0.85);
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 30px rgba(0, 170, 255, 0.1);
+}
+
+/* 📦 Lista de productos */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  background: rgba(255, 255, 255, 0.05);
+  margin: 0.6rem 0;
+  padding: 0.8rem 1rem;
+  border-radius: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: all 0.3s ease;
+}
+
+li:hover {
+  background: rgba(0, 170, 255, 0.15);
+  transform: translateX(4px);
+}
+
+/* 💀 Botón de eliminar */
+button.delete-btn {
+  background: transparent;
+  border: 1px solid #ff3b3b;
+  color: #ff3b3b;
+  padding: 0.3rem 0.6rem;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button.delete-btn:hover {
+  background: #ff3b3b;
+  color: white;
+}
+
+/* ➕ Formulario de nuevo producto */
+form {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+form input {
+  padding: 0.7rem;
+  border-radius: 0.4rem;
+  border: 1px solid rgba(0, 170, 255, 0.4);
+  background: rgba(255, 255, 255, 0.05);
+  color: #e0e6ff;
+}
+
+form input:focus {
+  outline: none;
+  border-color: #00baff;
+  box-shadow: 0 0 8px #00baff;
+}
+
+/* 🚀 Botón de envío */
+button.add-btn {
+  padding: 0.8rem;
+  border: none;
+  background: linear-gradient(90deg, #008cff, #00ffee);
+  color: #000;
+  font-weight: bold;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button.add-btn:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 15px #00ffee;
+}
+
+/* 🌐 Link entre vistas */
+a {
+  color: #00ffee;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+a:hover {
+  color: #00baff;
+  text-shadow: 0 0 10px #00ffee;
+}

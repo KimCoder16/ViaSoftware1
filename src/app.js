@@ -40,26 +40,38 @@ app.use("/api/products", productsRouter);
 app.use("/api/carts", cartsRouter);
 app.use("/", viewsRouter);
 
-// ⚡ WebSockets
+// ⚡ WebSockets con try/catch
 io.on("connection", async (socket) => {
   console.log("🟢 Cliente conectado vía WebSocket");
 
   // Enviar productos iniciales al cliente
-  const products = await productManager.getProducts();
-  socket.emit("updateProducts", products);
+  try {
+    const products = await productManager.getProducts();
+    socket.emit("updateProducts", products);
+  } catch (error) {
+    console.error("Error al enviar productos iniciales:", error);
+  }
 
   // 📦 Agregar producto
   socket.on("addProduct", async (data) => {
-    await productManager.addProduct(data);
-    const updated = await productManager.getProducts();
-    io.emit("updateProducts", updated);
+    try {
+      await productManager.addProduct(data);
+      const updated = await productManager.getProducts();
+      io.emit("updateProducts", updated);
+    } catch (error) {
+      console.error("Error al agregar producto:", error);
+    }
   });
 
   // 🗑️ Eliminar producto
   socket.on("deleteProduct", async (id) => {
-    await productManager.deleteProduct(id);
-    const updated = await productManager.getProducts();
-    io.emit("updateProducts", updated);
+    try {
+      await productManager.deleteProduct(id);
+      const updated = await productManager.getProducts();
+      io.emit("updateProducts", updated);
+    } catch (error) {
+      console.error("Error al eliminar producto:", error);
+    }
   });
 });
 
